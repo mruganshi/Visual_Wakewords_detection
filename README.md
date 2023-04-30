@@ -1,4 +1,4 @@
-v# Visual Wake Words Detection
+# Visual Wake Words Detection
 
 - Author: Mruganshi Gohel (B20CS014) , Shubham Ghelani (B20EE019)
 
