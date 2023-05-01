@@ -1,4 +1,4 @@
-# Visual Wake Words Detection
+# DL Model Optimization for Lightweight Visual Wake Words Task
 
 - Author: Mruganshi Gohel (B20CS014) , Shubham Ghelani (B20EE019)
 
