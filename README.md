@@ -10,10 +10,10 @@
 (preferred to run on google colab)
 
 1. **If you are using google colab**
-- import .ipynb file into colab (file→open)
+- Import .ipynb file into colab (file→open)
 - Firstly download the dataset (submitted as a zip on GC)
-- import the dataset(zip) on the drive
-- import dataset zip file by changing the cell-3 code in the .ipynb file
+- Import the dataset(zip) on the drive
+- Import dataset zip file by changing the cell-3 code in the .ipynb file
 
 ```python
 !unzip zip-location-on-drive
@@ -21,9 +21,9 @@
 
 and run all cells
 
-1. if u**sing a Jupyter Notebook**
-- just import the dataset from your PC no need to import it on the drive.
-- run all cells
+1. if **using a Jupyter Notebook**
+- Just import the dataset from your PC no need to import it on the drive.
+- Run all cells
 
 ### Required Libraries to Download
 
@@ -99,7 +99,7 @@ The following images shows the trend of loss function,  Accuracy function
 
 ### Prediction
 
- a random image from the validation set is taken and checked whether the data is properly and with the correct model trained or not.
+ A random image from the validation set is taken and checked whether the data is properly and with the correct model trained or not.
 
 ![image](https://drive.google.com/uc?export=view&id=1bTiLh064c6cFfj6q53SIvcKX62XT8XLA)
 
